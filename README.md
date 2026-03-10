@@ -1,6 +1,6 @@
 # Boston_University_Urban_Wind_Turbine
-Design process and testing documentation for Boston University MechE senior design project 183A: The Photonics Alley/Cummington Mall Wind Turbine/n
-Project worked on by Mia Faillaci, Dylan List, Sofia Luce, Will Maharry, Maeve Sherlock, Miguel Silva - Boston University Department of Mechanical Engineering/n
+Design process and testing documentation for Boston University MechE senior design project 183A: The Photonics Alley/Cummington Mall Wind Turbine
+Project worked on by Mia Faillaci, Dylan List, Sofia Luce, Will Maharry, Maeve Sherlock, Miguel Silva - Boston University Department of Mechanical Engineering
 Advised by Professor Gutierrez-Wing - Boston University Department of Mechanical Engineering/n
 
 Project overview: 
